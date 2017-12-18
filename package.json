@@ -10,7 +10,7 @@
     "serviceURL": "https://{teamID}.backlog.com",
     "hasNotificationSound": true,
     "hasIndirectMessages": false,
-    "hasTeamID": true,
+    "hasTeamId": true,
     "urlInputSuffix": ".backlog.com"
   }
 }
