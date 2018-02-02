@@ -7,7 +7,7 @@
   "author": "Nulab Inc. <yoshizawa@nulab-inc.com>",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://{teamID}.backlog.com",
+    "serviceURL": "https://{teamId}.backlog.com",
     "hasNotificationSound": true,
     "hasIndirectMessages": false,
     "hasTeamId": true,
